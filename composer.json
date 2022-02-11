@@ -1,0 +1,19 @@
+{
+    "name": "bbc2050/domaine-rge",
+    "description": "Wrapper PHP pour l'utilisation de la base de données des domaines RGE",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "BBC2050\\DomaineRGE\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adrien Rosi",
+            "email": "adrienrosi@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}

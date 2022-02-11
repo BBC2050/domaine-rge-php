@@ -6,7 +6,7 @@ class Repository
 {
     private static function db(): array
     {
-        return \json_decode(file_get_contents(__DIR__ . '/../data/domaines.json'), true);
+        return \json_decode(file_get_contents(__DIR__ . '/../data/domaine.json'), true);
     }
 
     public static function get(): iterable

@@ -1,0 +1,42 @@
+﻿id;code;nom;famille;active
+20;20;Chaudière condensation ou micro-cogénération gaz ou fioul 2020;NULL;false
+21;21;Fenêtres, volets, portes extérieures 2020;NULL;false
+22;22;Isolation des murs et planchers bas 2020;NULL;false
+23;23;Isolation du toit 2020;NULL;false
+24;24;Equipements électriques hors ENR : chauffage, eau chaude, éclairage 2020;NULL;false
+25;25;Panneaux photovoltaïques 2020;NULL;false
+26;26;Chauffage et/ou eau chaude au bois 2020;NULL;false
+27;27;Chauffage et/ou eau chaude solaire 2020;NULL;false
+29;29;Projet complet de rénovation;NULL;true
+30;30;Pompe à chaleur et/ou Chauffe-eau thermodynamique 2020;NULL;false
+33;33;Ventilation 2020;NULL;false
+34;34;Forage géothermique 2020;NULL;false
+72;72;Audit énergétique;Etude;true
+73;73;Etude solaire thermique;Etude;true
+74;74;Etude solaire photovoltaïque;Etude;true
+75;75;Etude thermique reglementaire;Etude;true
+76;76;Etude forage géothermique;Etude;true
+77;77;Etude ACV;Etude;true
+78;78;Etude enveloppe du bâtiment;Etude;true
+79;79;Etude système technique bâtiment;Etude;true
+80;80;Etude bois énergie;Etude;true
+81;81;Etude eclairage;Etude;true
+82;82;Commisionnement;NULL;true
+83;83;Architecte;NULL;true
+85;85;Chaudière condensation ou micro-cogénération gaz ou fioul;Système;true
+86;86;Chauffage et/ou eau chaude solaire;Système;true
+87;87;Chaudière bois;Système;true
+88;88;Poêle ou insert bois;Système;true
+89;89;Pompe à chaleur : chauffage;Système;true
+90;90;Chauffe-eau thermodynamique;Système;true
+91;91;Radiateurs électriques, dont régulation;Système;true
+92;92;Ventilation mécanique;Système;true
+93;93;Fenêtres, volets, portes donnant sur l'extérieur;Isolation;true
+94;94;Fenêtres de toit;Isolation;true
+95;95;Isolation par l'intérieur des murs ou rampants de toitures ou plafonds;Isolation;true
+96;96;Isolation des murs par l'extérieur;Isolation;true
+97;97;Isolation des toitures terrasses ou des toitures par l'extérieur;Isolation;true
+98;98;Isolation des combles perdus;Isolation;true
+99;99;Isolation des planchers bas;Isolation;true
+100;100;Forage géothermique;NULL;true
+101;101;Panneaux solaires photovoltaïques;NULL;true
